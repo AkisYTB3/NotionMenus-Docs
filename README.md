@@ -1,5 +1,6 @@
 ---
 description: Info about the plugin NotionMenus
+icon: door-open
 ---
 
 # Introduction
